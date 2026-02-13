@@ -16,7 +16,7 @@ This project implements a classification model to predict whether a customer is 
 
 ## Key Features
 
-* EThe project's flow: Data preprocessing → Modeling → Evaluation → Insights
+* The project's flow: Data preprocessing → Modeling → Evaluation → Insights
 * Multiple algorithms: Logistic Regression, Random Forest, Decision Tree
 * Handling class imbalance with SMOTE
 * Model comparison using Recall, Precision, and F1-score
